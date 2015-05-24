@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/cocos/editor-support/cocostudio/CCActionFrameEasing.cpp \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/editor-support/cocostudio/CCActionFrameEasing.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/document.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/reader.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/rapidjson.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/internal/pow10.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/internal/stack.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../external/json/internal/strfunc.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/CCStdC.h \
+  /Users/pony/Documents/cocos/HelloCocos/cocos2d/build/../cocos/platform/ios/CCStdC-ios.h
